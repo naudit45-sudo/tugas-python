@@ -1,0 +1,4 @@
+belanja = ["beras", "asam", "sapi", "telur"]
+print("Daftar belanja:")
+for barang in belanja:
+  print("-", barang)

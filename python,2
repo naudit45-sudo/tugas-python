@@ -1,0 +1,4 @@
+menu = ["nasi goreng", "mie ayam", "sate", "gado-gado"]
+menu.append("bakso")
+menu.remove("sate")
+print("Menu terbaru:", menu)
